@@ -11,7 +11,7 @@
 
 <body>
 
-    <h1>Product List</h1>
+    <h1>Product Management</h1>
 
     <a href="/products/create">
         <button type="button">Add Product</button>
